@@ -26,3 +26,6 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 #### Objective
 Develop SQL-based analytics to deliver detailed insights into:
 - **Customer Behaviour**
+- **Product Performance**
+- **Sales Trends
+These insgihts empower stakeholder with key business metrics, enabling strategic decision-making.
